@@ -3,7 +3,7 @@
 详细说明见[PPT](https://github.com/Huntersxsx/GAN-Learning/tree/master/HW3-3/HW3-3.pdf)   
 
 ## CycleGAN  
-代码见gan.py，原代码见[pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)  
+原代码见[pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)  
 在该实验中我使用了photo to Van Gogh的风格迁移  
 首先下载数据集
 ```
